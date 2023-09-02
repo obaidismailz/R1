@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "1002563259092",
+    "project_id": "loop-c874d",
+    "storage_bucket": "loop-c874d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002563259092:android:d346904fdfd516fd2a8941",
+        "android_client_info": {
+          "package_name": "com.app.vexpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002563259092-c2a68jvqjo5tkbb77ronq600uaeofbgl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.vexpo",
+            "certificate_hash": "5a62acce2fc304da818a7e5608f0f4bdf16b8515"
+          }
+        },
+        {
+          "client_id": "1002563259092-s8ajj2ku30di1b3nq2dqlsqf8cpqstlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbRDaRsJazxuPcB68diNZ1AurP57CbVeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002563259092-s8ajj2ku30di1b3nq2dqlsqf8cpqstlf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1002563259092-8qpod8m2va5r68ng7t6jvt1r8v16hhbm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.loopexpo.futurefest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002563259092:android:acb8f05be3d46e8a2a8941",
+        "android_client_info": {
+          "package_name": "com.fridaymediagroup.loopexpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002563259092-s8ajj2ku30di1b3nq2dqlsqf8cpqstlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbRDaRsJazxuPcB68diNZ1AurP57CbVeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002563259092-s8ajj2ku30di1b3nq2dqlsqf8cpqstlf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1002563259092-8qpod8m2va5r68ng7t6jvt1r8v16hhbm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.loopexpo.futurefest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002563259092:android:1b6ebf7ca7285e3a2a8941",
+        "android_client_info": {
+          "package_name": "com.loopexpo.futurefest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002563259092-s8ajj2ku30di1b3nq2dqlsqf8cpqstlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbRDaRsJazxuPcB68diNZ1AurP57CbVeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002563259092-s8ajj2ku30di1b3nq2dqlsqf8cpqstlf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1002563259092-8qpod8m2va5r68ng7t6jvt1r8v16hhbm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.loopexpo.futurefest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002563259092:android:2152107c4f3dfb702a8941",
+        "android_client_info": {
+          "package_name": "com.vexpo.smartcity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002563259092-s8ajj2ku30di1b3nq2dqlsqf8cpqstlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbRDaRsJazxuPcB68diNZ1AurP57CbVeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002563259092-s8ajj2ku30di1b3nq2dqlsqf8cpqstlf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1002563259092-8qpod8m2va5r68ng7t6jvt1r8v16hhbm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.loopexpo.futurefest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
